@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "201022733263",
+    "firebase_url": "https://anlikmesajlasma.firebaseio.com",
+    "project_id": "anlikmesajlasma",
+    "storage_bucket": "anlikmesajlasma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201022733263:android:083310515521b1b7",
+        "android_client_info": {
+          "package_name": "com.example.anlikmesajlasmauyg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201022733263-irqllok49041sck8o9ig5jps0sd4vjjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anlikmesajlasmauyg",
+            "certificate_hash": "bf342934348c5224c427f4f8b6a7060471e56ee5"
+          }
+        },
+        {
+          "client_id": "201022733263-qc200nj9a42gre0jbdgv33mcuh3vpvdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSqrg7suSqd6RGzmegsL6TzHCsMCUMFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201022733263-qc200nj9a42gre0jbdgv33mcuh3vpvdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
